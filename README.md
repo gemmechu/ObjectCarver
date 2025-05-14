@@ -3,7 +3,7 @@
 
 
 
-## [Project page](https://objectcarver.github.io/) | [Paper](https://openreview.net/attachment?id=jHF0Xp9GVu&name=pdf) | [Arxiv](https://arxiv.org/abs/2407.19108) | [Poster](https://objectcarver.github.io/static/ObjectCarver%203DV%20poster.pdf) |[Data (4.2G)](https://drive.google.com/file/d/1xNcUrSACRMY8QS2dJpSbkQsious2-E7q/)
+## [Project page](https://objectcarver.github.io/) | [Paper](https://openreview.net/attachment?id=jHF0Xp9GVu&name=pdf) | [arXiv](https://arxiv.org/abs/2407.19108) | [Poster](https://objectcarver.github.io/static/ObjectCarver%203DV%20poster.pdf) |[Data (4.2G)](https://drive.google.com/file/d/1xNcUrSACRMY8QS2dJpSbkQsious2-E7q/)
 This is the official repo for the implementation of **ObjectCarver: Semi-automatic segmentation, reconstruction and separation of 3D objects**.
 <div>
 <img src="https://objectcarver.github.io/static/images/method.png" height="500px">
