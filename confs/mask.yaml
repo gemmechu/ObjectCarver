@@ -1,0 +1,12 @@
+device: "cuda:0"
+sam_checkpoint: "./sam_vit_h_4b8939.pth"
+data_dir: "./data"
+scene_name: "scan_3"
+anchors:
+  scan_3: ["0027.png"]
+output_dir: "mask_generated"
+n_pass: 3
+surface_type: "sdf"
+sdf_ckpt: "./exp/scan_3/full_scene/checkpoints/ckpt_200000.pth"
+sdf_conf: "./confs/womask.conf"
+num_samples: 0.005

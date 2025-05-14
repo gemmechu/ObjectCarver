@@ -1,0 +1,12 @@
+*.sub
+exp/
+exps/
+public_data/
+jobs/
+wandb/
+*.csv
+eval/evaluation
+eval/gt
+eval/scenecut_mlp
+data/
+*.pth
